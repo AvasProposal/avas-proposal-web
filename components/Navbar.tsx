@@ -15,7 +15,7 @@ export default function Navbar() {
         
         <Link href="/" className="flex items-center gap-3">
           <Image
-  src="/logo-v2.png"
+  src="/logo-v3.png"
   alt="Avas Proposal Logo"
   width={36}
   height={36}
