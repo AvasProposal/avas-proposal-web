@@ -15,9 +15,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Avas Proposal | Proposal Development in Maldives",
+  title: "Avas Proposal",
   description:
     "Premium proposal development in the Maldives—loan proposals, feasibility studies, financial projections, BOQs, EOIs, and tender documentation.",
+  icons: {
+    icon: "/favicon2.png",
+  },
 };
 
 export default function RootLayout({
