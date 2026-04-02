@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   description:
     "Premium proposal development in the Maldives—loan proposals, feasibility studies, financial projections, BOQs, EOIs, and tender documentation.",
   icons: {
-    icon: "/favicon2.png",
+    icon: [{ url: "/favicon3.png", type: "image/png" }],
   },
 };
 
